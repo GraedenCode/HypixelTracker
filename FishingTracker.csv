@@ -1,0 +1,19 @@
+fish_name,image,Bronze,Silver,Gold,Diamond
+Sulphur Skitter,SulphurSkitter.png,True,True,False,False
+Steaming Flounder,SteamingHotFlounder.png,True,False,True,False
+Gusher,Gusher.png,True,True,True,False
+Blobfish,Blobfish.png,True,True,True,False
+Slugfish,Slugfish.png,True,True,False,False
+Flyfish,Flyfish.png,True,True,False,False
+Lavahorse,Lavahorse.png,True,True,True,False
+Mana Ray,ManaRay.png,True,True,False,False
+Volcanic Stonefish,VolcanicStonefish.png,True,True,False,False
+Vanille,Vanille.png,True,True,False,False
+Skeleton Fish,SkeletonFish.png,True,True,False,False
+MoldFin,Moldfin.png,True,True,False,False
+SoulFish,Soulfish.png,True,True,False,False
+Karate Fish,KarateFish.png,True,True,False,False
+Golden Fish,GoldenFish.png,True,True,True,False
+Obfuscated 1,Obfuscated1.png,True,True,False,False
+Obfuscated 2,Obfuscated2.png,False,False,False,False
+Obfuscated 3,Obfuscated3.png,False,False,False,False
