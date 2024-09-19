@@ -59,6 +59,7 @@ with login:
         username = st.text_input('Username')
         password = st.text_input('Password', type='password')
         button = st.form_submit_button('submit')
+        login_container = st.container(height=68, border=False)
 
         if button:
             with open('Accounts.csv','r') as file:
@@ -75,4 +76,5 @@ with login:
                     else:
                         result = "Credentials are incorrect"
 
-            st.write(result)
+            with login_container:
+                st.write(result)
